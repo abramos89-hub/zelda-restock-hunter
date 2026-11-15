@@ -1,0 +1,48 @@
+{
+  "product_name": "Nintendo Switch 2 - The Legend of Zelda - 40th Anniversary Edition",
+  "max_item_price_usd": 519.99,
+  "request_timeout_seconds": 20,
+  "user_agent": "ZeldaRestockHunter/1.0 (personal availability checker)",
+  "retailers": [
+    {
+      "name": "Nintendo",
+      "url": "https://www.nintendo.com/us/store/products/nintendo-switch-2-the-legend-of-zelda-40th-anniversary-edition-121642/",
+      "enabled": true,
+      "allowed_seller_terms": [
+        "nintendo"
+      ]
+    },
+    {
+      "name": "Best Buy",
+      "url": "https://www.bestbuy.com/product/switch-2-the-legend-of-zelda-40th-anniversary-edition/J7GSL57HTY",
+      "enabled": true,
+      "allowed_seller_terms": [
+        "best buy"
+      ]
+    },
+    {
+      "name": "Amazon",
+      "url": "",
+      "enabled": false,
+      "allowed_seller_terms": [
+        "amazon"
+      ]
+    },
+    {
+      "name": "Target",
+      "url": "",
+      "enabled": false,
+      "allowed_seller_terms": [
+        "target"
+      ]
+    },
+    {
+      "name": "Walmart",
+      "url": "",
+      "enabled": false,
+      "allowed_seller_terms": [
+        "walmart"
+      ]
+    }
+  ]
+}
